@@ -1,3 +1,4 @@
+![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/80054925/122706495-afc8f780-d21d-11eb-972e-e9b17070947c.png)
 # Bikesharing
 
 ## Overview
@@ -28,3 +29,5 @@ I was able to make 7 different visulizations in Tableau. Here were my results:
 
 ![Trips by Gender by Weekday per Hour](https://user-images.githubusercontent.com/80054925/122706480-a3449f00-d21d-11eb-8d16-ff7de82d8feb.png)
 ![Trips by Weekday per Hour](https://user-images.githubusercontent.com/80054925/122706487-a770bc80-d21d-11eb-8e62-48c25b8697e8.png)
+![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/80054925/122706504-b3f51500-d21d-11eb-8675-695a94c0b624.png)
+
