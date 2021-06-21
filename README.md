@@ -11,4 +11,9 @@ Finally, I wanted to find out how long trips were in August, as tripurdation pla
 ## Results
 I was able to make 7 different visulizations in Tableau. Here were my results:
 - In the month of August, there were 2.3 million rides.
+- 1,900,359 users subscribe to the company and 443,865 users are customers.
+- Men had the most individuals.
+
+![August Peak Hours](https://user-images.githubusercontent.com/80054925/122706294-36c9a000-d21d-11eb-839e-55bcee3bac16.png)
+
 - 
