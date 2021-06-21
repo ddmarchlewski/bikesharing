@@ -1,4 +1,3 @@
-![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/80054925/122706495-afc8f780-d21d-11eb-972e-e9b17070947c.png)
 # Bikesharing
 
 ## Overview
