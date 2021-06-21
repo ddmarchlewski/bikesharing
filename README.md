@@ -31,3 +31,9 @@ I was able to make 7 different visulizations in Tableau. Here were my results:
 ![Trips by Weekday per Hour](https://user-images.githubusercontent.com/80054925/122706487-a770bc80-d21d-11eb-8e62-48c25b8697e8.png)
 ![User Trips by Gender by Weekday](https://user-images.githubusercontent.com/80054925/122706504-b3f51500-d21d-11eb-8675-695a94c0b624.png)
 
+- During the weekend, activity was highest during the hours of 10:00 a.m. - 7:00 p.m.
+- Males take up most of the trips.
+
+## Summary
+During the month of August in 2019, there was a high amount of activity for the bike sharing service. Most of the rides were from males in monrings, evenings, and on weekends. 
+Some more visualizations can be done. 
