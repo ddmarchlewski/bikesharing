@@ -37,4 +37,4 @@ I was able to make 7 different visulizations in Tableau. Here were my results:
 During the month of August in 2019, there was a high amount of activity for the bike sharing service. Most of the rides were from males in monrings, evenings, and on weekends. 
 Some more visualizations can be done. For example, we can look at data that shows rides during the colder months like November or December. Or, we could look how weather may effect overall rides. 
 
-[link to dashboard]https://public.tableau.com/app/profile/dayton.marchlewski/viz/NYCCitiBikeAnalysis_16242418345920/BikeSharing
+[link to dashboard](https://public.tableau.com/app/profile/dayton.marchlewski/viz/NYCCitiBikeAnalysis_16242418345920/BikeSharing)
