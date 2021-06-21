@@ -16,4 +16,8 @@ I was able to make 7 different visulizations in Tableau. Here were my results:
 
 ![August Peak Hours](https://user-images.githubusercontent.com/80054925/122706294-36c9a000-d21d-11eb-839e-55bcee3bac16.png)
 
-- 
+- 5:00 p.m. - 7:00 p.m. showed the most activity.
+
+![Checkout Time for Users](https://user-images.githubusercontent.com/80054925/122706368-6b3d5c00-d21d-11eb-8ed6-4ddedc84e4eb.png)
+
+- For the most part, bikes were checked out for 4 to 6 hours.
