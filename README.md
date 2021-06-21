@@ -21,3 +21,10 @@ I was able to make 7 different visulizations in Tableau. Here were my results:
 ![Checkout Time for Users](https://user-images.githubusercontent.com/80054925/122706368-6b3d5c00-d21d-11eb-8ed6-4ddedc84e4eb.png)
 
 - For the most part, bikes were checked out for 4 to 6 hours.
+
+![Checkout Times by Gender](https://user-images.githubusercontent.com/80054925/122706410-85773a00-d21d-11eb-9f29-5b3b1da3b5c7.png)
+
+- Males had more individual checkouts than females and unknowns.
+
+![Trips by Gender by Weekday per Hour](https://user-images.githubusercontent.com/80054925/122706480-a3449f00-d21d-11eb-8d16-ff7de82d8feb.png)
+![Trips by Weekday per Hour](https://user-images.githubusercontent.com/80054925/122706487-a770bc80-d21d-11eb-8e62-48c25b8697e8.png)
